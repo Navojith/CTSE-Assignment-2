@@ -2,6 +2,6 @@
 
 # How to run
 
-Clone the repo
-Add GROQ API KEY to .env file (Refer to .env.example)
-Run the ctse_chatbot.ipynb
+1. Clone the repo <br />
+2. Add GROQ API KEY to .env file (Refer to .env.example) <br />
+3. Run the ctse_chatbot.ipynb <br />
